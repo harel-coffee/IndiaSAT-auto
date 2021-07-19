@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Banglore_Green_new.kml</name>
+	<Style id="sn_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Banglore_Green</name>
+		<Placemark>
+			<name>Greenery_1</name>
+			<styleUrl>#msn_ylw-pushpin4</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.69361434338695,13.04715381207366,0 77.69374921694798,13.04821643601176,0 77.69200996356155,13.0485680303818,0 77.69132993123691,13.04768904036056,0 77.69361434338695,13.04715381207366,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Greenery_2</name>
+			<styleUrl>#msn_ylw-pushpin4</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.75675916225565,12.95223959631218,0 77.75784858672749,12.95251106201858,0 77.75748191772723,12.9539867709291,0 77.75646042290846,12.95351325230665,0 77.75675916225565,12.95223959631218,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Greenery_3</name>
+			<styleUrl>#msn_ylw-pushpin4</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.59103679395581,12.97103007926224,0 77.59232853939858,12.97252535782943,0 77.59114411604541,12.97345379913411,0 77.59025848474882,12.97139629647445,0 77.59103679395581,12.97103007926224,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Greenery_4</name>
+			<styleUrl>#msn_ylw-pushpin4</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.50157998209262,12.84410097768251,0 77.50477086471724,12.84497523554586,0 77.50411597593387,12.84952902420382,0 77.50070461966602,12.84967276354895,0 77.50157998209262,12.84410097768251,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Greenery_5</name>
+			<styleUrl>#msn_ylw-pushpin4</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.53729182695363,13.06256065354683,0 77.54062301208049,13.05787134786419,0 77.54408524037453,13.05984220793611,0 77.54020515499582,13.06452799415483,0 77.53729182695363,13.06256065354683,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Greenery_6</name>
+			<styleUrl>#msn_ylw-pushpin4</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.43921654595053,12.9248491531224,0 77.43994759078352,12.92887563047062,0 77.43781651523719,12.92973323708363,0 77.43744427144604,12.92542151818149,0 77.43921654595053,12.9248491531224,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Greenery_7</name>
+			<styleUrl>#msn_ylw-pushpin4</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.44645035323411,12.85603158016981,0 77.44708612268019,12.85840901105649,0 77.44553643985269,12.85892621038791,0 77.44477297967299,12.85628320132962,0 77.44645035323411,12.85603158016981,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Greenery_8</name>
+			<styleUrl>#msn_ylw-pushpin4</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.59043618982055,12.896892785049,0 77.59061936297476,12.89405450846997,0 77.59369565089131,12.89453606805343,0 77.59379869291841,12.89703029834753,0 77.59043618982055,12.896892785049,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Greenery_9</name>
+			<styleUrl>#msn_ylw-pushpin4</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.65868431128366,12.90173897385156,0 77.66157982450497,12.91513904289548,0 77.65697635326114,12.91561878314085,0 77.65363674619654,12.90236507160098,0 77.65868431128366,12.90173897385156,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Greenery_10</name>
+			<styleUrl>#msn_ylw-pushpin4</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.72044520761771,12.81053283720981,0 77.72191686051447,12.81030258479459,0 77.72201863474865,12.81097099078341,0 77.72035253141873,12.81115953606776,0 77.72044520761771,12.81053283720981,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Greenery_11</name>
+			<styleUrl>#msn_ylw-pushpin4</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.71117978206027,12.80579372220347,0 77.71283874451515,12.80647254821244,0 77.71248872776495,12.8077933942465,0 77.71116811408298,12.80726185785703,0 77.71117978206027,12.80579372220347,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Greenery_12</name>
+			<styleUrl>#msn_ylw-pushpin4</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.53136256388032,12.82566753328747,0 77.53140252060805,12.82474984837068,0 77.53305422953217,12.82442050784167,0 77.53324711099809,12.82522497654372,0 77.53136256388032,12.82566753328747,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Greenery_13</name>
+			<styleUrl>#msn_ylw-pushpin4</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.54569693683031,12.84026272754319,0 77.54736360720638,12.84171612519586,0 77.54677397091484,12.84251666662695,0 77.54519598683139,12.84160741290326,0 77.54569693683031,12.84026272754319,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Greenery_14</name>
+			<styleUrl>#msn_ylw-pushpin4</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.52905966604024,12.86782729815634,0 77.529318772216,12.86988826276418,0 77.52829869698903,12.87008579200878,0 77.52835399742149,12.86800980698997,0 77.52905966604024,12.86782729815634,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Greenery_15</name>
+			<styleUrl>#msn_ylw-pushpin4</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.48727115673353,12.83876248963373,0 77.48753078144038,12.83553676222373,0 77.48846114005667,12.83547130919447,0 77.48832560028445,12.83866309008221,0 77.48727115673353,12.83876248963373,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Greenery_16</name>
+			<styleUrl>#msn_ylw-pushpin4</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.48012048266389,12.8953778879446,0 77.48062575676032,12.89695577365428,0 77.4793513453086,12.89716896999519,0 77.47905832924604,12.89572425646372,0 77.48012048266389,12.8953778879446,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Greenery_17</name>
+			<styleUrl>#msn_ylw-pushpin4</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.41895579733978,13.03607942854308,0 77.4193700595637,13.03536002652283,0 77.42071155144988,13.03565958299415,0 77.42052549042562,13.03634305082629,0 77.41895579733978,13.03607942854308,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Greenery_18</name>
+			<styleUrl>#msn_ylw-pushpin4</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.46729249856708,13.10825626218381,0 77.47101885089194,13.10716011253497,0 77.47208742083973,13.10838422733775,0 77.4696377907496,13.11077016544502,0 77.46729249856708,13.10825626218381,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
